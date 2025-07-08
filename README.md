@@ -63,21 +63,17 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/amira-mereddef" target="_blank">
+  <a href="https://www.linkedin.com/in/amira-mereddef-a7b283333/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://kaggle.com/amira-mereddef" target="_blank">
+  <a href="https://www.kaggle.com/amirastudentmereddef" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:amira.mereddef@ensia.edu.dz" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="40" />
   </a>&nbsp;&nbsp;
-
-  <a href="https://discord.gg/5455" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
 </p>
 
 ---
